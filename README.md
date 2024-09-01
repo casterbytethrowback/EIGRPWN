@@ -1,5 +1,8 @@
 # EIGRPWN
 
+# These are works from 2022, uploaded specifically for the book Networks Through the Eyes of the Hacker.
+# These repositories have nothing to do with Caster's current oeuvre.
+
 **The author has nothing to do with those who will use this tool for personal purposes to destroy other people's computer networks. The tools are presented for training purposes to help engineers improve the security of their network.**
 
 **routeinject.py** - tool for route injection in the EIGRP domain.
